@@ -1,0 +1,282 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.20)  4 APR 2019 11:29
+entering extended mode
+**./autosam.tex
+(autosam.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+(autart.cls
+Document Class: autart 2001/03/28, 2.18pl1: Automatica
+\@frontmatterwidth=\dimen102
+\@bls=\dimen103
+\eqntopsep=\skip41
+\eqnarraycolsep=\dimen104
+\labelwidthi=\dimen105
+\labelwidthii=\dimen106
+\labelwidthiii=\dimen107
+\labelwidthiv=\dimen108
+\@maxlistdepth=\count79
+\eqnbaselineskip=\skip42
+\eqnlineskip=\skip43
+\mathindent=\dimen109
+\rulepreskip=\dimen110
+\rulepostskip=\dimen111
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+\c@thm=\count85
+\c@alg=\count86
+\c@algorithm=\count87
+\c@note=\count88
+\c@summ=\count89
+\c@case=\count90
+\@tempcntc=\count91
+\c@figure=\count92
+\c@table=\count93
+\t@glob@notes=\toks14
+\t@loc@notes=\toks15
+\note@cnt=\count94
+\corauth@text=\toks16
+\email@text=\toks17
+\url@text=\toks18
+\c@corauth=\count95
+\c@author=\count96
+\n@author=\count97
+\c@collab=\count98
+\n@collab=\count99
+\c@address=\count100
+\sv@mathsurround=\dimen112
+\sv@hyphenpenalty=\count101
+\prev@elem=\count102
+\cur@elem=\count103
+\fm@box=\box26
+\fm@size=\dimen113
+\t@abstract=\box27
+\t@keyword=\box28
+\t@xtheight=\dimen114
+\@logoheight=\dimen115
+\@pubyear=\count104
+\c@firstpage=\count105
+\c@lastpage=\count106
+\slashbox=\box29
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1441.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1441.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 1441.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+\Slashbox=\box30
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 1442.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count107
+))
+\Gin@req@height=\dimen116
+\Gin@req@width=\dimen117
+) (autosam.aux)
+\openout1 = `autosam.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(C:\Users\thiery.RGZM\AppData\Roaming\MiKTeX\2.9\tex\context\base\mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen118
+\scratchbox=\box31
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen119
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks21
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 21.
+\c@sv@footnote=\count114
+
+<Arch채ologische_Revolution.png, id=1, 1706.375pt x 803.0pt>
+File: Arch채ologische_Revolution.png Graphic file (type png)
+ <use Arch채ologische_Revolution.png>
+Package pdftex.def Info: Arch채ologische_Revolution.png used on input line 47.
+(pdftex.def)             Requested size: 227.62204pt x 107.11377pt.
+
+<Digital_Wave_and_the_Ocean_of_Traditional_Things.png, id=3, 796.2379pt x 300.91368pt>
+File: Digital_Wave_and_the_Ocean_of_Traditional_Things.png Graphic file (type png)
+
+<use Digital_Wave_and_the_Ocean_of_Traditional_Things.png>
+Package pdftex.def Info: Digital_Wave_and_the_Ocean_of_Traditional_Things.png used on input line 55.
+(pdftex.def)             Requested size: 227.62204pt x 86.01842pt.
+ [1{C:/Users/thiery.RGZM/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+ <./Arch채ologische_Revolution.png> <./Digital_Wave_and_the_Ocean_of_Traditional_Things.png>]
+<a10.png, id=21, 1461.46pt x 1157.32375pt>
+File: a10.png Graphic file (type png)
+ <use a10.png>
+Package pdftex.def Info: a10.png used on input line 67.
+(pdftex.def)             Requested size: 71.85077pt x 56.9055pt.
+ <a20.png, id=22, 1747.52875pt x 942.52126pt>
+File: a20.png Graphic file (type png)
+ <use a20.png>
+Package pdftex.def Info: a20.png used on input line 79.
+(pdftex.def)             Requested size: 105.48715pt x 56.9055pt.
+
+<a30.png, id=23, 1724.4425pt x 1195.46625pt>
+File: a30.png Graphic file (type png)
+ <use a30.png>
+Package pdftex.def Info: a30.png used on input line 91.
+(pdftex.def)             Requested size: 82.06975pt x 56.9055pt.
+
+<Archaeological_Linked_Data_Cloud_(ALDC).png, id=24, 1189.0824pt x 773.289pt>
+File: Archaeological_Linked_Data_Cloud_(ALDC).png Graphic file (type png)
+
+<use Archaeological_Linked_Data_Cloud_(ALDC).png>
+Package pdftex.def Info: Archaeological_Linked_Data_Cloud_(ALDC).png used on input line 99.
+(pdftex.def)             Requested size: 227.62204pt x 148.02377pt.
+ <lod-cloud.pdf, id=25, 1583.9175pt x 1615.53563pt>
+File: lod-cloud.pdf Graphic file (type pdf)
+
+<use lod-cloud.pdf>
+Package pdftex.def Info: lod-cloud.pdf used on input line 107.
+(pdftex.def)             Requested size: 227.62204pt x 232.16365pt.
+
+Underfull \vbox (badness 1112) has occurred while \output is active []
+
+ [2 <./a10.png> <./a20.png> <./a30.png> <./Archaeological_Linked_Data_Cloud_(ALDC).png> <./lod-cloud.pdf>] <a40.png, id=
+34, 462.528pt x 390.4989pt>
+File: a40.png Graphic file (type png)
+ <use a40.png>
+Package pdftex.def Info: a40.png used on input line 119.
+(pdftex.def)             Requested size: 67.40007pt x 56.9055pt.
+
+<Era_of_Computing.png, id=35, 1806.75pt x 903.375pt>
+File: Era_of_Computing.png Graphic file (type png)
+ <use Era_of_Computing.png>
+Package pdftex.def Info: Era_of_Computing.png used on input line 127.
+(pdftex.def)             Requested size: 227.62204pt x 113.80379pt.
+
+<1_78b9DR1EApGRAst5FkPrwQ.png, id=36, 778.91pt x 399.4925pt>
+File: 1_78b9DR1EApGRAst5FkPrwQ.png Graphic file (type png)
+ <use 1_78b9DR1EApGRAst5FkPrwQ.png>
+Package pdftex.def Info: 1_78b9DR1EApGRAst5FkPrwQ.png used on input line 135.
+(pdftex.def)             Requested size: 227.62204pt x 116.73984pt.
+ (autosam.bbl
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+) [3 <./a40.png> <./Era_of_Computing.png> <./1_78b9DR1EApGRAst5FkPrwQ.png (PNG copy)>] (autosam.aux) ) 
+Here is how much of TeX's memory you used:
+ 2068 strings out of 493323
+ 27822 string characters out of 3129581
+ 90828 words of memory out of 3000000
+ 5590 multiletter control sequences out of 15000+200000
+ 11835 words of font info for 46 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,6n,25p,1054b,248s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmsl9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on autosam.pdf (3 pages, 3442858 bytes).
+PDF statistics:
+ 84 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
