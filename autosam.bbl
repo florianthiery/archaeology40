@@ -22,4 +22,11 @@ Leif Isaksen.
 Dan McCreary.
 \newblock Knowledge {Graphs}: {The} {Third} {Era} of {Computing}, March 2019.
 
+\bibitem{thiery_geinarfa}
+Florian Thiery.
+\newblock {\em Semantic {Web} und {Linked} {Data}: {Generierung} von
+  {Interoperabilitaet} in archaeologischen {Fachdaten} am {Beispiel} roemischer
+  {Toepferstempel}}.
+\newblock master thesis, Fachhochschule Mainz, December 2013.
+
 \end{thebibliography}
