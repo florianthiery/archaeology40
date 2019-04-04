@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.20)  4 APR 2019 11:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.20)  4 APR 2019 12:05
 entering extended mode
 **./autosam.tex
 (autosam.tex
@@ -188,67 +188,67 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 21.
 \c@sv@footnote=\count114
 
-<Archaeology_40.png, id=1, 1279.78125pt x 602.25pt>
-File: Archaeology_40.png Graphic file (type png)
- <use Archaeology_40.png>
-Package pdftex.def Info: Archaeology_40.png used on input line 47.
-(pdftex.def)             Requested size: 227.62204pt x 107.11377pt.
-
-<Digital_Wave_and_the_Ocean_of_Traditional_Things.png, id=3, 796.2379pt x 300.91368pt>
+<Digital_Wave_and_the_Ocean_of_Traditional_Things.png, id=1, 796.2379pt x 300.91368pt>
 File: Digital_Wave_and_the_Ocean_of_Traditional_Things.png Graphic file (type png)
 
 <use Digital_Wave_and_the_Ocean_of_Traditional_Things.png>
-Package pdftex.def Info: Digital_Wave_and_the_Ocean_of_Traditional_Things.png used on input line 55.
+Package pdftex.def Info: Digital_Wave_and_the_Ocean_of_Traditional_Things.png used on input line 45.
 (pdftex.def)             Requested size: 227.62204pt x 86.01842pt.
+ <Archaeology_40.png, id=3, 1279.78125pt x 602.25pt>
+File: Archaeology_40.png Graphic file (type png)
+
+<use Archaeology_40.png>
+Package pdftex.def Info: Archaeology_40.png used on input line 59.
+(pdftex.def)             Requested size: 227.62204pt x 107.11377pt.
  [1{C:/Users/thiery.RGZM/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
- <./Archaeology_40.png> <./Digital_Wave_and_the_Ocean_of_Traditional_Things.png>]
-<a10.png, id=21, 1461.46pt x 1157.32375pt>
+ <./Digital_Wave_and_the_Ocean_of_Traditional_Things.png> <./Archaeology_40.png>] <a10.png, id=21, 1461.46pt x 1157.3237
+5pt>
 File: a10.png Graphic file (type png)
  <use a10.png>
-Package pdftex.def Info: a10.png used on input line 67.
+Package pdftex.def Info: a10.png used on input line 73.
 (pdftex.def)             Requested size: 71.85077pt x 56.9055pt.
- <a20.png, id=22, 1747.52875pt x 942.52126pt>
+
+<a20.png, id=22, 1747.52875pt x 942.52126pt>
 File: a20.png Graphic file (type png)
  <use a20.png>
-Package pdftex.def Info: a20.png used on input line 79.
+Package pdftex.def Info: a20.png used on input line 85.
 (pdftex.def)             Requested size: 105.48715pt x 56.9055pt.
-
-<a30.png, id=23, 1724.4425pt x 1195.46625pt>
+ <a30.png, id=23, 1724.4425pt x 1195.46625pt>
 File: a30.png Graphic file (type png)
  <use a30.png>
-Package pdftex.def Info: a30.png used on input line 97.
+Package pdftex.def Info: a30.png used on input line 103.
 (pdftex.def)             Requested size: 82.06975pt x 56.9055pt.
 
 <Archaeological_Linked_Data_Cloud_(ALDC).png, id=24, 1189.0824pt x 773.289pt>
 File: Archaeological_Linked_Data_Cloud_(ALDC).png Graphic file (type png)
 
 <use Archaeological_Linked_Data_Cloud_(ALDC).png>
-Package pdftex.def Info: Archaeological_Linked_Data_Cloud_(ALDC).png used on input line 105.
+Package pdftex.def Info: Archaeological_Linked_Data_Cloud_(ALDC).png used on input line 111.
 (pdftex.def)             Requested size: 227.62204pt x 148.02377pt.
  <lod-cloud.pdf, id=25, 1583.9175pt x 1615.53563pt>
 File: lod-cloud.pdf Graphic file (type pdf)
 
 <use lod-cloud.pdf>
-Package pdftex.def Info: lod-cloud.pdf used on input line 113.
+Package pdftex.def Info: lod-cloud.pdf used on input line 119.
 (pdftex.def)             Requested size: 227.62204pt x 232.16365pt.
- <a40.png, id=26, 462.528pt x 390.4989pt>
+ [2 <./a10.png> <./a20.png> <./a30.png> <./Archaeological_Linked_Data_Cloud_(ALDC).png>]
+<a40.png, id=33, 462.528pt x 390.4989pt>
 File: a40.png Graphic file (type png)
  <use a40.png>
-Package pdftex.def Info: a40.png used on input line 129.
+Package pdftex.def Info: a40.png used on input line 135.
 (pdftex.def)             Requested size: 67.40007pt x 56.9055pt.
- [2 <./a10.png> <./a20.png> <./a30.png> <./Archaeological_Linked_Data_Cloud_(ALDC).png>] <Era_of_Computing.png, id=34, 1
-806.75pt x 903.375pt>
+ <Era_of_Computing.png, id=34, 1806.75pt x 903.375pt>
 File: Era_of_Computing.png Graphic file (type png)
 
 <use Era_of_Computing.png>
-Package pdftex.def Info: Era_of_Computing.png used on input line 137.
+Package pdftex.def Info: Era_of_Computing.png used on input line 143.
 (pdftex.def)             Requested size: 227.62204pt x 113.80379pt.
  <1_78b9DR1EApGRAst5FkPrwQ.png, id=35, 778.91pt x 399.4925pt>
 File: 1_78b9DR1EApGRAst5FkPrwQ.png Graphic file (type png)
 
 <use 1_78b9DR1EApGRAst5FkPrwQ.png>
-Package pdftex.def Info: 1_78b9DR1EApGRAst5FkPrwQ.png used on input line 145.
+Package pdftex.def Info: 1_78b9DR1EApGRAst5FkPrwQ.png used on input line 151.
 (pdftex.def)             Requested size: 227.62204pt x 116.73984pt.
  (autosam.bbl
 Missing character: There is no Ã in font cmr8!
@@ -271,7 +271,7 @@ ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/M
 public/amsfonts/cm/cmsl9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on autosam.pdf (3 pages, 3431704 bytes).
+Output written on autosam.pdf (3 pages, 3434236 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
