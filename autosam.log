@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.20)  4 APR 2019 11:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.20)  4 APR 2019 11:41
 entering extended mode
 **./autosam.tex
 (autosam.tex
@@ -188,10 +188,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 21.
 \c@sv@footnote=\count114
 
-<Arch채ologische_Revolution.png, id=1, 1706.375pt x 803.0pt>
-File: Arch채ologische_Revolution.png Graphic file (type png)
- <use Arch채ologische_Revolution.png>
-Package pdftex.def Info: Arch채ologische_Revolution.png used on input line 47.
+<Archaeology_40.png, id=1, 1279.78125pt x 602.25pt>
+File: Archaeology_40.png Graphic file (type png)
+ <use Archaeology_40.png>
+Package pdftex.def Info: Archaeology_40.png used on input line 47.
 (pdftex.def)             Requested size: 227.62204pt x 107.11377pt.
 
 <Digital_Wave_and_the_Ocean_of_Traditional_Things.png, id=3, 796.2379pt x 300.91368pt>
@@ -202,7 +202,7 @@ Package pdftex.def Info: Digital_Wave_and_the_Ocean_of_Traditional_Things.png us
 (pdftex.def)             Requested size: 227.62204pt x 86.01842pt.
  [1{C:/Users/thiery.RGZM/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
- <./Arch채ologische_Revolution.png> <./Digital_Wave_and_the_Ocean_of_Traditional_Things.png>]
+ <./Archaeology_40.png> <./Digital_Wave_and_the_Ocean_of_Traditional_Things.png>]
 <a10.png, id=21, 1461.46pt x 1157.32375pt>
 File: a10.png Graphic file (type png)
  <use a10.png>
@@ -217,66 +217,63 @@ Package pdftex.def Info: a20.png used on input line 79.
 <a30.png, id=23, 1724.4425pt x 1195.46625pt>
 File: a30.png Graphic file (type png)
  <use a30.png>
-Package pdftex.def Info: a30.png used on input line 91.
+Package pdftex.def Info: a30.png used on input line 97.
 (pdftex.def)             Requested size: 82.06975pt x 56.9055pt.
 
 <Archaeological_Linked_Data_Cloud_(ALDC).png, id=24, 1189.0824pt x 773.289pt>
 File: Archaeological_Linked_Data_Cloud_(ALDC).png Graphic file (type png)
 
 <use Archaeological_Linked_Data_Cloud_(ALDC).png>
-Package pdftex.def Info: Archaeological_Linked_Data_Cloud_(ALDC).png used on input line 99.
+Package pdftex.def Info: Archaeological_Linked_Data_Cloud_(ALDC).png used on input line 105.
 (pdftex.def)             Requested size: 227.62204pt x 148.02377pt.
  <lod-cloud.pdf, id=25, 1583.9175pt x 1615.53563pt>
 File: lod-cloud.pdf Graphic file (type pdf)
 
 <use lod-cloud.pdf>
-Package pdftex.def Info: lod-cloud.pdf used on input line 107.
+Package pdftex.def Info: lod-cloud.pdf used on input line 113.
 (pdftex.def)             Requested size: 227.62204pt x 232.16365pt.
-
-Underfull \vbox (badness 1112) has occurred while \output is active []
-
- [2 <./a10.png> <./a20.png> <./a30.png> <./Archaeological_Linked_Data_Cloud_(ALDC).png> <./lod-cloud.pdf>] <a40.png, id=
-34, 462.528pt x 390.4989pt>
+ <a40.png, id=26, 462.528pt x 390.4989pt>
 File: a40.png Graphic file (type png)
  <use a40.png>
-Package pdftex.def Info: a40.png used on input line 119.
+Package pdftex.def Info: a40.png used on input line 129.
 (pdftex.def)             Requested size: 67.40007pt x 56.9055pt.
-
-<Era_of_Computing.png, id=35, 1806.75pt x 903.375pt>
+ [2 <./a10.png> <./a20.png> <./a30.png> <./Archaeological_Linked_Data_Cloud_(ALDC).png>] <Era_of_Computing.png, id=34, 1
+806.75pt x 903.375pt>
 File: Era_of_Computing.png Graphic file (type png)
- <use Era_of_Computing.png>
-Package pdftex.def Info: Era_of_Computing.png used on input line 127.
-(pdftex.def)             Requested size: 227.62204pt x 113.80379pt.
 
-<1_78b9DR1EApGRAst5FkPrwQ.png, id=36, 778.91pt x 399.4925pt>
+<use Era_of_Computing.png>
+Package pdftex.def Info: Era_of_Computing.png used on input line 137.
+(pdftex.def)             Requested size: 227.62204pt x 113.80379pt.
+ <1_78b9DR1EApGRAst5FkPrwQ.png, id=35, 778.91pt x 399.4925pt>
 File: 1_78b9DR1EApGRAst5FkPrwQ.png Graphic file (type png)
- <use 1_78b9DR1EApGRAst5FkPrwQ.png>
-Package pdftex.def Info: 1_78b9DR1EApGRAst5FkPrwQ.png used on input line 135.
+
+<use 1_78b9DR1EApGRAst5FkPrwQ.png>
+Package pdftex.def Info: 1_78b9DR1EApGRAst5FkPrwQ.png used on input line 145.
 (pdftex.def)             Requested size: 227.62204pt x 116.73984pt.
  (autosam.bbl
 Missing character: There is no � in font cmr8!
 Missing character: There is no � in font cmr8!
-) [3 <./a40.png> <./Era_of_Computing.png> <./1_78b9DR1EApGRAst5FkPrwQ.png (PNG copy)>] (autosam.aux) ) 
+) [3 <./lod-cloud.pdf> <./a40.png> <./Era_of_Computing.png> <./1_78b9DR1EApGRAst5FkPrwQ.png (PNG copy)>] (autosam.aux) )
+ 
 Here is how much of TeX's memory you used:
  2068 strings out of 493323
- 27822 string characters out of 3129581
- 90828 words of memory out of 3000000
+ 27762 string characters out of 3129581
+ 91805 words of memory out of 3000000
  5590 multiletter control sequences out of 15000+200000
  11835 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,6n,25p,1054b,248s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmsl9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on autosam.pdf (3 pages, 3442858 bytes).
+ 39i,6n,25p,905b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsl9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on autosam.pdf (3 pages, 3431704 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

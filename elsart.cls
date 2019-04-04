@@ -1350,7 +1350,7 @@ et\or eu\or ew\or ex\or ey\or ez\else\@ctrerr\fi}
   \def\@oddfoot{\small\slshape
     \def\@tempa{0}
     \ifx\@volume\@tempa
-      Preprint submitted to \@journal\hfil\@date\/%
+      \hfil\@date\/%
     \else
       Article published in \@jou@vol@pag\hfil\hbox{}\fi}%
   \let\@evenfoot\@oddfoot
