@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.20)  5 APR 2019 07:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.20)  5 APR 2019 09:28
 entering extended mode
 **./autosam.tex
 (autosam.tex
@@ -321,77 +321,72 @@ File: lod-cloud.pdf Graphic file (type pdf)
  <use lod-cloud.pdf>
 Package pdftex.def Info: lod-cloud.pdf used on input line 109.
 (pdftex.def)             Requested size: 227.62204pt x 232.16365pt.
-Missing character: There is no √ in font cmr10!
-Missing character: There is no º in font cmr10!
+ [2 <./a10.png> <./a20.png> <./a30.png> <./lod-cloud.pdf>] <5-star-steps.png, id=71, 682.55pt x 387.4475pt>
+File: 5-star-steps.png Graphic file (type png)
+ <use 5-star-steps.png>
+Package pdftex.def Info: 5-star-steps.png used on input line 119.
+(pdftex.def)             Requested size: 227.62204pt x 129.206pt.
 
-<Archaeological_Linked_Data_Cloud_(ALDC).png, id=57, 1189.0824pt x 773.289pt>
+<Archaeological_Linked_Data_Cloud_(ALDC).png, id=72, 1189.0824pt x 773.289pt>
 File: Archaeological_Linked_Data_Cloud_(ALDC).png Graphic file (type png)
 
 <use Archaeological_Linked_Data_Cloud_(ALDC).png>
 Package pdftex.def Info: Archaeological_Linked_Data_Cloud_(ALDC).png used on input line 135.
 (pdftex.def)             Requested size: 227.62204pt x 148.02377pt.
-Missing character: There is no √ in font cmr10!
-Missing character: There is no § in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no ∂ in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no ü in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no § in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no § in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no § in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no § in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no º in font cmr10!
- [2 <./a10.png> <./a20.png> <./a30.png> <./lod-cloud.pdf>]
-<a40.png, id=72, 462.528pt x 390.4989pt>
+
+Underfull \hbox (badness 1286) in paragraph at lines 141--142
+\OT1/cmr/m/n/10 com-mu-nity, cre-at-ing a Ar-chae-o-log-i-cal Linked Data
+ []
+
+<a40.png, id=73, 462.528pt x 390.4989pt>
 File: a40.png Graphic file (type png)
  <use a40.png>
-Package pdftex.def Info: a40.png used on input line 163.
+Package pdftex.def Info: a40.png used on input line 147.
 (pdftex.def)             Requested size: 67.40007pt x 56.9055pt.
- <Era_of_Computing.png, id=73, 1806.75pt x 903.375pt>
+ <Era_of_Computing.png, id=74, 1806.75pt x 903.375pt>
 File: Era_of_Computing.png Graphic file (type png)
 
 <use Era_of_Computing.png>
-Package pdftex.def Info: Era_of_Computing.png used on input line 177.
+Package pdftex.def Info: Era_of_Computing.png used on input line 163.
 (pdftex.def)             Requested size: 227.62204pt x 113.80379pt.
- <1_78b9DR1EApGRAst5FkPrwQ.png, id=74, 778.91pt x 399.4925pt>
+ <1_78b9DR1EApGRAst5FkPrwQ.png, id=75, 778.91pt x 399.4925pt>
 File: 1_78b9DR1EApGRAst5FkPrwQ.png Graphic file (type png)
 
 <use 1_78b9DR1EApGRAst5FkPrwQ.png>
-Package pdftex.def Info: 1_78b9DR1EApGRAst5FkPrwQ.png used on input line 185.
+Package pdftex.def Info: 1_78b9DR1EApGRAst5FkPrwQ.png used on input line 171.
 (pdftex.def)             Requested size: 227.62204pt x 116.73984pt.
- (autosam.bbl
+ [3 <./5-star-steps.png> <./Archaeological_Linked_Data_Cloud_(ALDC).png> <./a40.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+
+(autosam.bbl
 Missing character: There is no √ in font cmr8!
 Missing character: There is no ° in font cmr8!
-) [3 <./Archaeological_Linked_Data_Cloud_(ALDC).png> <./a40.png> <./Era_of_Computing.png> <./1_78b9DR1EApGRAst5FkPrwQ.pn
-g (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 201.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 201.
+) [4 <./Era_of_Computing.png> <./1_78b9DR1EApGRAst5FkPrwQ.png (PNG copy)>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 190.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 190.
  (autosam.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 201.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 201.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 190.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 190.
 Package rerunfilecheck Info: File `autosam.out' has not changed.
 (rerunfilecheck)             Checksum: E068F4BF2415AFD9A1BB55E9F8FF741E;420.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 201.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 190.
  ) 
 Here is how much of TeX's memory you used:
- 5676 strings out of 493323
- 82224 string characters out of 3129581
- 170785 words of memory out of 3000000
- 9152 multiletter control sequences out of 15000+200000
+ 5686 strings out of 493323
+ 82386 string characters out of 3129581
+ 170883 words of memory out of 3000000
+ 9158 multiletter control sequences out of 15000+200000
  11835 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,5n,28p,905b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,5n,28p,1201b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pr
@@ -401,9 +396,9 @@ cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmtt9.pfb>
-Output written on autosam.pdf (3 pages, 3457539 bytes).
+Output written on autosam.pdf (4 pages, 3543195 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 107 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 153 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
+ 112 words of extra memory for PDF output out of 10000 (max. 10000000)
 
