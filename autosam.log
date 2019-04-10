@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.20)  5 APR 2019 09:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.20)  10 APR 2019 15:58
 entering extended mode
 **./autosam.tex
 (autosam.tex
@@ -210,41 +210,90 @@ File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
 ))
 \Gin@req@height=\dimen120
 \Gin@req@width=\dimen121
+)
+(C:\Users\thiery.RGZM\AppData\Roaming\MiKTeX\2.9\tex\latex\verbatimbox\verbatimbox.sty
+Package: verbatimbox 2014/03/12 v3.13 Routines for placing verbatim text into boxes, useful in places where the verbatim
+ environment is inaccessible. Secondarily, for adding vertical buffer around an object.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks20
+\verbatim@line=\toks21
+\verbatim@in@stream=\read1
+)
+(C:\Users\thiery.RGZM\AppData\Roaming\MiKTeX\2.9\tex\latex\readarray\readarray.sty
+Package: readarray 2016/11/07\ 2.0\ Routines for inputting 2D and 3D array data and recalling it on an element-by-elemen
+t basis.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\thiery.RGZM\AppData\Roaming\MiKTeX\2.9\tex\latex\listofitems\listofitems.sty
+(C:\Users\thiery.RGZM\AppData\Roaming\MiKTeX\2.9\tex\generic\listofitems\listofitems.tex
+\loi_cnt_foreach_nest=\count118
+\loi_nestcnt=\count119
+)
+Package: listofitems 2019/03/03 v1.61 Grab items in lists using user-specified sep char (CT)
+)
+\c@@index=\count120
+\c@@plane=\count121
+\c@@row=\count122
+\c@@col=\count123
+\c@use@args=\count124
+\c@@record=\count125
+\c@arg@index=\count126
+\c@break@count=\count127
+\c@index@count=\count128
+\c@loop@count=\count129
+\Arg@toks=\toks22
+\@arrayident@toks=\toks23
+\rdar@file=\read2
+
+readarray: bounds checking OFF
+)
+\savedverbbox=\box31
+\c@VerbboxLineNo=\count130
+\boxtopsep=\dimen122
+\boxbottomsep=\dimen123
+\ps@tempdima=\dimen124
+\ps@tempboxa=\box32
+\boxtop@sep=\skip45
+\boxbottom@sep=\skip46
 ) (autosam.aux)
 \openout1 = `autosam.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-\AtBeginShipoutBox=\box31
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+\AtBeginShipoutBox=\box33
 
 
 Package hyperref Warning: Height of page (\paperheight) is invalid (0.0pt),
 (hyperref)                using 11in.
 
-Package hyperref Info: Link coloring OFF on input line 15.
+Package hyperref Info: Link coloring OFF on input line 18.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count118
+\c@section@level=\count131
 )
-LaTeX Info: Redefining \ref on input line 15.
-LaTeX Info: Redefining \pageref on input line 15.
-LaTeX Info: Redefining \nameref on input line 15.
+LaTeX Info: Redefining \ref on input line 18.
+LaTeX Info: Redefining \pageref on input line 18.
+LaTeX Info: Redefining \nameref on input line 18.
  (autosam.out) (autosam.out)
 \@outlinefile=\write3
 \openout3 = `autosam.out'.
@@ -252,17 +301,17 @@ LaTeX Info: Redefining \nameref on input line 15.
 
 (C:\Users\thiery.RGZM\AppData\Roaming\MiKTeX\2.9\tex\context\base\mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count119
-\scratchdimen=\dimen122
-\scratchbox=\box32
-\nofMPsegments=\count120
-\nofMParguments=\count121
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count122
-\MPscratchDim=\dimen123
-\MPnumerator=\count123
-\makeMPintoPDFobject=\count124
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count132
+\scratchdimen=\dimen125
+\scratchbox=\box34
+\nofMPsegments=\count133
+\nofMParguments=\count134
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count135
+\MPscratchDim=\dimen126
+\MPnumerator=\count136
+\makeMPintoPDFobject=\count137
+\everyMPtoPDFconversion=\toks25
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -275,90 +324,90 @@ Package grfext Info: Graphics extension search list:
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 23.
+(Font)              <17.28> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 23.
+(Font)              <12> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 28.
+(Font)              <9> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 28.
-\c@sv@footnote=\count125
+(Font)              <6> on input line 31.
+\c@sv@footnote=\count138
 
 <Digital_Wave_and_the_Ocean_of_Traditional_Things.png, id=31, 796.2379pt x 300.91368pt>
 File: Digital_Wave_and_the_Ocean_of_Traditional_Things.png Graphic file (type png)
 
 <use Digital_Wave_and_the_Ocean_of_Traditional_Things.png>
-Package pdftex.def Info: Digital_Wave_and_the_Ocean_of_Traditional_Things.png used on input line 51.
+Package pdftex.def Info: Digital_Wave_and_the_Ocean_of_Traditional_Things.png used on input line 54.
 (pdftex.def)             Requested size: 227.62204pt x 86.01842pt.
  <Archaeology_40.png, id=33, 1279.78125pt x 602.25pt>
 File: Archaeology_40.png Graphic file (type png)
 
 <use Archaeology_40.png>
-Package pdftex.def Info: Archaeology_40.png used on input line 63.
+Package pdftex.def Info: Archaeology_40.png used on input line 66.
 (pdftex.def)             Requested size: 227.62204pt x 107.11377pt.
  [1{C:/Users/thiery.RGZM/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
- <./Digital_Wave_and_the_Ocean_of_Traditional_Things.png> <./Archaeology_40.png>] <a10.png, id=53, 1461.46pt x 1157.3237
+ <./Digital_Wave_and_the_Ocean_of_Traditional_Things.png> <./Archaeology_40.png>] <a10.png, id=52, 1461.46pt x 1157.3237
 5pt>
 File: a10.png Graphic file (type png)
  <use a10.png>
-Package pdftex.def Info: a10.png used on input line 75.
+Package pdftex.def Info: a10.png used on input line 78.
 (pdftex.def)             Requested size: 71.85077pt x 56.9055pt.
 
-<a20.png, id=54, 1747.52875pt x 942.52126pt>
+<a20.png, id=53, 1747.52875pt x 942.52126pt>
 File: a20.png Graphic file (type png)
  <use a20.png>
-Package pdftex.def Info: a20.png used on input line 87.
+Package pdftex.def Info: a20.png used on input line 90.
 (pdftex.def)             Requested size: 105.48715pt x 56.9055pt.
- <a30.png, id=55, 1724.4425pt x 1195.46625pt>
+ <a30.png, id=54, 1724.4425pt x 1195.46625pt>
 File: a30.png Graphic file (type png)
  <use a30.png>
-Package pdftex.def Info: a30.png used on input line 99.
+Package pdftex.def Info: a30.png used on input line 102.
 (pdftex.def)             Requested size: 82.06975pt x 56.9055pt.
 
-<lod-cloud.pdf, id=56, 1583.9175pt x 1615.53563pt>
+<lod-cloud.pdf, id=55, 1583.9175pt x 1615.53563pt>
 File: lod-cloud.pdf Graphic file (type pdf)
  <use lod-cloud.pdf>
-Package pdftex.def Info: lod-cloud.pdf used on input line 109.
+Package pdftex.def Info: lod-cloud.pdf used on input line 112.
 (pdftex.def)             Requested size: 227.62204pt x 232.16365pt.
- [2 <./a10.png> <./a20.png> <./a30.png> <./lod-cloud.pdf>] <5-star-steps.png, id=71, 682.55pt x 387.4475pt>
+ [2 <./a10.png> <./a20.png> <./a30.png> <./lod-cloud.pdf>] <5-star-steps.png, id=70, 682.55pt x 387.4475pt>
 File: 5-star-steps.png Graphic file (type png)
  <use 5-star-steps.png>
-Package pdftex.def Info: 5-star-steps.png used on input line 119.
+Package pdftex.def Info: 5-star-steps.png used on input line 122.
 (pdftex.def)             Requested size: 227.62204pt x 129.206pt.
 
-<Archaeological_Linked_Data_Cloud_(ALDC).png, id=72, 1189.0824pt x 773.289pt>
+<Archaeological_Linked_Data_Cloud_(ALDC).png, id=71, 1189.0824pt x 773.289pt>
 File: Archaeological_Linked_Data_Cloud_(ALDC).png Graphic file (type png)
 
 <use Archaeological_Linked_Data_Cloud_(ALDC).png>
-Package pdftex.def Info: Archaeological_Linked_Data_Cloud_(ALDC).png used on input line 135.
+Package pdftex.def Info: Archaeological_Linked_Data_Cloud_(ALDC).png used on input line 138.
 (pdftex.def)             Requested size: 227.62204pt x 148.02377pt.
 
-Underfull \hbox (badness 1286) in paragraph at lines 141--142
+Underfull \hbox (badness 1286) in paragraph at lines 144--145
 \OT1/cmr/m/n/10 com-mu-nity, cre-at-ing a Ar-chae-o-log-i-cal Linked Data
  []
 
-<a40.png, id=73, 462.528pt x 390.4989pt>
+<a40.png, id=72, 462.528pt x 390.4989pt>
 File: a40.png Graphic file (type png)
  <use a40.png>
-Package pdftex.def Info: a40.png used on input line 147.
+Package pdftex.def Info: a40.png used on input line 150.
 (pdftex.def)             Requested size: 67.40007pt x 56.9055pt.
- <Era_of_Computing.png, id=74, 1806.75pt x 903.375pt>
+ <Era_of_Computing.png, id=73, 1806.75pt x 903.375pt>
 File: Era_of_Computing.png Graphic file (type png)
 
 <use Era_of_Computing.png>
-Package pdftex.def Info: Era_of_Computing.png used on input line 163.
+Package pdftex.def Info: Era_of_Computing.png used on input line 166.
 (pdftex.def)             Requested size: 227.62204pt x 113.80379pt.
- <1_78b9DR1EApGRAst5FkPrwQ.png, id=75, 778.91pt x 399.4925pt>
+ <1_78b9DR1EApGRAst5FkPrwQ.png, id=74, 778.91pt x 399.4925pt>
 File: 1_78b9DR1EApGRAst5FkPrwQ.png Graphic file (type png)
 
 <use 1_78b9DR1EApGRAst5FkPrwQ.png>
-Package pdftex.def Info: 1_78b9DR1EApGRAst5FkPrwQ.png used on input line 171.
+Package pdftex.def Info: 1_78b9DR1EApGRAst5FkPrwQ.png used on input line 174.
 (pdftex.def)             Requested size: 227.62204pt x 116.73984pt.
- [3 <./5-star-steps.png> <./Archaeological_Linked_Data_Cloud_(ALDC).png> <./a40.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ¦ in font cmr10!
+ [3 <./5-star-steps.png> <./Archaeological_Linked_Data_Cloud_(ALDC).png> <./a40.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ¦ in font cmr10!
@@ -367,6 +416,18 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no ¦ in font cmr10!
 
 (autosam.bbl
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 27.
+
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `de'. Using the pattern for
+** the default language instead.
 Missing character: There is no Ã in font cmr8!
 Missing character: There is no ¡ in font cmr8!
 ) [4 <./Era_of_Computing.png> <./1_78b9DR1EApGRAst5FkPrwQ.png (PNG copy)>]
@@ -380,13 +441,13 @@ Package rerunfilecheck Info: File `autosam.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 190.
  ) 
 Here is how much of TeX's memory you used:
- 5686 strings out of 493323
- 82386 string characters out of 3129581
- 170883 words of memory out of 3000000
- 9158 multiletter control sequences out of 15000+200000
- 11835 words of font info for 46 fonts, out of 3000000 for 9000
+ 6109 strings out of 493323
+ 88546 string characters out of 3129581
+ 180971 words of memory out of 3000000
+ 9558 multiletter control sequences out of 15000+200000
+ 12387 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,5n,28p,1201b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 33i,5n,28p,1201b,376s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pr
@@ -394,11 +455,10 @@ ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files
 cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmsl9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmtt9.pfb>
-Output written on autosam.pdf (4 pages, 3543205 bytes).
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on autosam.pdf (4 pages, 3537296 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
+ 158 PDF objects out of 1000 (max. 8388607)
  30 named destinations out of 1000 (max. 500000)
  112 words of extra memory for PDF output out of 10000 (max. 10000000)
 
